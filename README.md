@@ -16,4 +16,5 @@ The task is episodic, and in order to solve the environment, your agent must get
 2. Type Jupter Notebooks into the command line (mac/linux)
 3. Click `Run all cells`
 
-add gif of agent performance here
+## Collecting Bananas
+![](performance.gif)
